@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@elrond-marbles/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@elrond-marbles/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@elrond-marbles/app-config": ["libs/app-config/index.ts"],
+      "@elrond-marbles/auth": ["libs/auth/src/index.ts"],
+      "@elrond-marbles/modal": ["libs/modal/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

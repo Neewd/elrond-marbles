@@ -1,7 +1,7 @@
 {
   "projectType": "application",
   "sourceRoot": "apps/elrond-marbles/src",
-  "prefix": "elrond-marbles",
+  "prefix": "em",
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:browser",

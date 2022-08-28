@@ -4,7 +4,9 @@
   "projects": {
     "api": "apps/api",
     "api-interfaces": "libs/api-interfaces",
+    "auth": "libs/auth",
     "elrond-marbles": "apps/elrond-marbles",
-    "elrond-marbles-e2e": "apps/elrond-marbles-e2e"
+    "elrond-marbles-e2e": "apps/elrond-marbles-e2e",
+    "modal": "libs/modal"
   }
 }
